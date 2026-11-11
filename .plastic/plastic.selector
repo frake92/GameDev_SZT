@@ -1,0 +1,4 @@
+repository "GameDev_SZT/GameDev_SZT@7972268982516@cloud"
+  path "/"
+    br "/main"
+    co "/main"
